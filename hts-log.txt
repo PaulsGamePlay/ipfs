@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 May 2022 11:17:22 at https://coremcs.bigcartel.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coremcs.bigcartel.com -O1 "C:\My Web Sites\blabla" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:17:46	Error: 	"Not Found" (404) at link https://coremcs.bigcartel.com/log_stats.gif (from https://coremcs.bigcartel.com/stats.min.js)
+11:17:46	Error: 	"Not Found" (404) at link https://coremcs.bigcartel.com/log_product_view.gif (from https://coremcs.bigcartel.com/stats.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 25 links scanned, 22 files written (8907315 bytes overall) [8707848 bytes received at 362827 bytes/sec], 318517 bytes transferred using HTTP compression in 14 files, ratio 29%, 2.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
